@@ -1,2 +1,4 @@
 # hello-world
-just another hello world example
+#just another hello world example
+
+print("Hello world")
